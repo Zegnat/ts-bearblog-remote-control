@@ -1,0 +1,11 @@
+{
+  "name": "@zegnat/bearblog-remote-control",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.4.0"
+  },
+  "dependencies": {
+    "domutils": "3.0.1",
+    "htmlparser2": "^8.0.1"
+  }
+}
